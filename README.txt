@@ -28,5 +28,4 @@ Files Included:
 3.heart_prediction.py : Source code file
 4.README.txt : Project description and instructions
 
-Video Presentation :
-Link:https://drive.google.com/file/d/1LFwp1wUhB5q7_BEnyVsaZPMJvN9aHzgB/view
+
